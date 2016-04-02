@@ -826,7 +826,7 @@ pre .javascript .function {
   }
 }
 .comments {
-  margin: 20px 20px 0;
+  margin: 20px 0 0;
 }
 .tag-cloud {
   text-align: center;
@@ -1110,7 +1110,7 @@ pre .javascript .function {
 }
 .posts-collapse .collection-title {
   position: relative;
-  margin: 25px 0;
+  margin: 10px 0;
 }
 .posts-collapse .collection-title h2 {
   margin-left: 20px;
@@ -1131,7 +1131,7 @@ pre .javascript .function {
   border-radius: 50%;
 }
 .posts-collapse .post {
-  margin: 15px 0;
+  margin: 5px 0;
 }
 .posts-collapse .post-header {
   position: relative;
@@ -1515,7 +1515,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffaf82;
+  background: #58a73e;
 }
 .links-of-blogroll {
   font-size: 13px;
